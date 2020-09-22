@@ -37,7 +37,7 @@ your bot.)
 5. Once you have your bot token copied, go to the discord nuke bot file and drag it into VS code. 
 
 6. After you did #5 go to Nuke.js and scroll all the way down and you will see
-"nuke.login("Your token here");" Ctrl V the token into there and your all set. (Put it between the quotes.) Once your done simply close out of VS. Code and go back to the file 
+"nuke.login("Your token here");" Ctrl V the token into there and your all set. (Put it between the quotes.) Once your done simply open up terminal and type **npm install discord.js** close out of VS. Code and go back to the file 
 "Discord Nuke Bot" and click on the Bat file "Start". 
 
 6. If you have any questions please feel free to dm Foski#4619 or just watch the video on "https://www.youtube.com/channel/UCDoHZ-pxuWrP92A4MfPydyg?view_as=subscriber"
