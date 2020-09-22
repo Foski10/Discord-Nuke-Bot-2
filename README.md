@@ -50,6 +50,9 @@ your bot.)
 2. BTW THE WAY TO ACCESS THE BOT IS "n!help" It will give you all of the commands. (Sorry for the people who had problems with it)
 
 
+Feel free to join my discord (https://discord.gg/UecSQ98) for more!
+
+
 
 
 
