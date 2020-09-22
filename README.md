@@ -32,10 +32,9 @@ You should see a link that says something like "https://discord.com/api/oauth2/a
 copy and paste it into another tab (when inviting make sure you have administator or it wont work). Now after you invited the bot 
 to your server you want to nuke... (you monster) please go back to "https://discord.com/developers/applications" and open up your 
 project. Then click on Bot and under Token click on copy (Never give out your token because that gives full access for anyone to
-your bot.
+your bot.)
 
-5. Once you have your bot token copied, go to the discord nuke bot file and drag it into VS code. Once your there, click on terminal
-at the top of the screen, It should be open now. Type in npm install and wait for thate to be done and boom.
+5. Once you have your bot token copied, go to the discord nuke bot file and drag it into VS code. 
 
 6. After you did #5 go to Nuke.js and scroll all the way down and you will see
 "nuke.login("Your token here");" Ctrl V the token into there and your all set. (Put it between the quotes.) Once your done simply close out of VS. Code and go back to the file 
