@@ -35,4 +35,4 @@ if(msg.content.toLowerCase().startsWith("n!" + "help")){
 }
 });
 
-nuke.login("NzU4MDU0MDA3MzkzNzQ3MDI1.X2pWzw.wDHwEV0E715pApQ63Bwrhf-sOXU");
+nuke.login("Your Bot Token");
