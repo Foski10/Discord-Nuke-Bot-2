@@ -14,6 +14,8 @@ If you got this from discord read this, but if your from github you don't need t
 ALSO RIGHT CLICK ON YOUR DESKTOP AND ADD A NEW FILE AND NAME IT "Discord Nuke Bot" Thats where your going to have to put all of the
 files I sent you. 
 
+**npm install discord.js**
+
 -----------------------------------------------Set=Up---------------------------------------
 
 MAKE SURE YOU PUT THE FILE (Discord Nuke Bot) ON YOUR DESKTOP
