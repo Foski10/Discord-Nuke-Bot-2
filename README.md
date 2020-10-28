@@ -16,8 +16,6 @@ files I sent you.
 
 **npm install discord.js**
 
-Tharapy server, I'm coming for you (:<
-
 -----------------------------------------------Set=Up---------------------------------------
 
 MAKE SURE YOU PUT THE FILE (Discord Nuke Bot) ON YOUR DESKTOP
